@@ -100,3 +100,108 @@ npm start
 ### Elements Panel
 - View HTML and CSS
 ![](images/image-1.PNG)
+- Click on an element
+- Change the CSS/background
+- You can edit the HTML as well
+- CDT will edit the end tag automatically
+- Change ID/Class
+- Pretty much everything is double clickable
+- You can add a new style 
+![](images/image-2.PNG)
+- HTMLs are drag-dropable
+- Pretty intuitive
+
+### Network Panel
+- When we load our page
+- Shows stack of all requests sent
+- Top one is always document (html)
+- Resposnse is our file
+- Looks for external resources
+- html ---> CSS, html ---> JS, html ---> font, css ---> font/image
+- Things we can see:
+    - name of resource
+    - status
+    - type of the resource
+    - who initiated it
+    - size
+    - time
+- Server issues can be diagnosed from Network tabs
+- At the bottom of the page: 
+    - DOMContentLoaded
+    - Load
+    - These 2 times are important and especially in Lighthouse scores
+- We can have Network Tab Capture Screenshots as well
+![](images/image-3.PNG)
+- Able to inspect request and response data
+- When API is not working, we are asked about the headers we are sending or receiving
+- This comes in really handy when request has request ID and can be looked up in the logs
+
+### Performance Panel
+- People are scared of it
+- Record - Interact - Stop
+- Keep Recording small - 10-15s
+![](images/image-4.PNG)
+- What the graphs indicate
+    - FPS
+    - CPU usage
+    - Main thread
+    - Frames
+    - Rasterizing
+    - GPU
+- Look if 
+    - page is jammed
+    - whats causing the page to lag
+    - whats the memory usage
+    - Whats my CPU usage
+- Come with a specific question to this panel
+
+### Console Panel
+- Can console different types of data
+- Go To Elements Tab. Click on element. That element is assigned to $0
+- type $0 in console, you get reference to that element
+    - All element functions are available to access them
+
+### Security Panel
+- Defacto standard: https
+- Resources serving over http
+- open and you see green then its good
+- if its orange or red then there's a problem
+
+### Sources Panel
+- Call Stack
+- Watch a variable
+- Workspaces
+- Drag our project to workspace and we can save it to disk
+
+### Application Panel
+- Storage
+- Cookies
+- Index DB
+- Service Workers
+- Storage > Clear Site Data
+
+### Memory Panel
+- Heap Snapshot - How memory is being used in our app
+- Timeline - JS memory allocation over time
+- Allocation Sampling - What JS code is causing it
+
+### Lighthouse Panel
+- Opensource
+- First Paint Time
+- PWA - offline
+- Accessibility
+- SEO
+
+### Devices Panel
+- Responsive web development
+![](images/image-5.PNG)
+
+### Element Finder
+- Click on element finder and target any element
+
+### Settings, experiments
+
+- We will spend a lot of time in each panel
+- We can connect android device which can be connected and tested
+- Good instead of emulator it would be perfect
+
