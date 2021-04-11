@@ -11,7 +11,7 @@ This app requires Node.js which can be downloaded [here](https://nodejs.org/)
 ## How to use
 
 ```bash
-git clone https://github.com/jkup/mastering-chrome-devtools.git
+git clone https://github.com/ankitbtanna/mastering-chrome-devtools.git
 cd mastering-chrome-devtools
 npm install
 npm start
@@ -22,7 +22,7 @@ Then visit [http://localhost:3000](http://localhost:3000)
 ## If you'd like the app to automatically reload on changes
 
 ```bash
-git clone https://github.com/jkup/mastering-chrome-devtools.git
+git clone https://github.com/ankitbtanna/mastering-chrome-devtools.git
 cd mastering-chrome-devtools
 npm install -g nodemon
 npm install
@@ -32,7 +32,7 @@ nodemon server/server.js
 Note: If you're looking for Mastering Chrome Devtools v2, run:
 
 ```
-git clone https://github.com/jkup/mastering-chrome-devtools.git
+git clone https://github.com/ankitbtanna/mastering-chrome-devtools.git
 cd mastering-chrome-devtools
 git checkout v2
 npm install

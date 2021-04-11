@@ -1,6 +1,6 @@
 # Welcome to the course!
 
-[github.com/jkup](https://github.com/jkup)
+[ankitbtanna/mastering-chrome-devtools](https://github.com/ankitbtanna/mastering-chrome-devtools)
 
 ## How this course works
 
@@ -8,10 +8,10 @@ This repository serves as the slides, demos and exercises for the Frontend Maste
 
 ## Important links
 
-- Course repository: [https://github.com/jkup/mastering-chrome-devtools](https://github.com/jkup/mastering-chrome-devtools)
+- Course repository: [https://github.com/ankitbtanna/mastering-chrome-devtools](https://github.com/ankitbtanna/mastering-chrome-devtools)
 - Official docs: [https://developers.google.com/web/tools/chrome-devtools](https://developers.google.com/web/tools/chrome-devtools)
-- My Twitter: [https://twitter.com/jkup](https://twitter.com/jkup)
-- My email : [jon.kuperman@gmail.com](mailto:jon.kuperman@gmail.com)
+- My Twitter: [https://twitter.com/thetanna](https://twitter.com/thetanna)
+- My email : [ankittanna@hotmail.com](mailto:ankittanna@hotmail.com)
 
 ## Why learn DevTools?
 
@@ -33,13 +33,9 @@ There are so many amazing courses that teach you how to **create** web applicati
 1. Memory
 1. Auditing
 
-## Who am I?
+My name is Ankit Tanna. I'm an engineer at Schlumberger.
 
-![Jon Kuperman](jon.jpeg)
-
-My name is Jon Kuperman. I'm an engineer at Adobe working on their Creative Cloud. Before that I worked on the Brave Browser and Twitter.com.
-
-I write on my personal blog [jonkuperman.com](https://jonkuperman.com) and teach workshops on Chrome DevTools and Accessibility!
+I post on my channel [youtube.com/EverydayJavaScript](https://www.youtube.com/EverydayJavaScript) and teach JavaScript.
 
 ## Let's begin!
 

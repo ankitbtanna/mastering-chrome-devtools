@@ -16,12 +16,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jkup/mastering-chrome-devtools.git"
+    "url": "git+https://github.com/ankitbtanna/mastering-chrome-devtools.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jkup/mastering-chrome-devtools/issues"
+    "url": "https://github.com/ankitbtanna/mastering-chrome-devtools/issues"
   },
-  "homepage": "https://github.com/jkup/mastering-chrome-devtools#readme"
+  "homepage": "https://github.com/ankitbtanna/mastering-chrome-devtools#readme"
 }
