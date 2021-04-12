@@ -205,3 +205,32 @@ npm start
 - We can connect android device which can be connected and tested
 - Good instead of emulator it would be perfect
 
+### Theme of Course
+- Editing - Elements, Console, Sources
+- Debugging - Elements, Console, Sources
+- Profiling - Network, Performance, Memory
+- Auditing - Network, Lighthouse
+
+## Editing Websites
+- We will be doing 3 things
+    - Quick Edits
+    - Edit in Chrome
+    - Save to disk within chrome
+
+- (⚡️ indicates a tip or trick!)
+- Editing CSS
+- Adding CSS Rules
+- Editing HTML
+- ⚡️ Scroll into view - right click element and scroll into view (infinite scrolling apps)
+- Console shortcuts - $0, $1(previous element) it keeps history
+- Hide and show elements - select element, press "h" to hide or show the element, right click delete the element
+- Simulate state - Style > hov, active, etc
+- ⚡️ Computed styles - Final styles... sequential application of styles... All divs are blue, div with class foo is red. Shows the final applied style
+- ⚡️ HTML breakpoints ---> Right click: Break On: Sub Tree Modifications, attribute modification, node removal. Show me which JS modified. Go to call stack on the right hand side it shows which JS is modifying it.
+- Find event listeners - Click on button, right side there is Event listeners tab
+- ⚡️ Changing color formats - Can see colours on page, shift click to change from hex ---> hsa, rgb
+![](images/image-6.PNG)
+- ⚡️ Import custom theme
+- CSS Specificity
+- Accessible color picker
+- Accessibility panel - has accessibility panel which shows if element is part of tab index, has aria attributes or not
