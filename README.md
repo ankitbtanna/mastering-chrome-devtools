@@ -234,3 +234,50 @@ npm start
 - CSS Specificity
 - Accessible color picker
 - Accessibility panel - has accessibility panel which shows if element is part of tab index, has aria attributes or not
+
+### Computed Styles
+- Shows which styles won at the end
+- All h2 elements are blue
+- Elements with id 'xyz' are red
+- Shows which file is modifying the style of element
+![](images/image-7.PNG)
+![](images/image-8.PNG)
+
+- shows box model as well
+![](images/image-9.PNG)
+
+### HTML Break Points
+- Tool where table was populating on real time
+- Sometimes it went blank
+- Can add a breakpoints in html
+![](images/image-10.PNG)
+![](images/image-11.PNG)
+![](images/image-12.PNG)
+
+### Workspace
+- It is helpful but for non complex web apps
+- Large apps dont work well here
+- Use it for only trivial CSS/HTML changes
+
+### Step Through Debugging
+- Mostly for JavaScript
+- Broken things - why they are broken
+- Console.log is used by a lot... 
+- Code will run, logs it out and code keeps on running. But its too late as app has already executed
+- What we will do:
+* Set and activate breakpoints
+* Use the debugger keyword
+* Walk the call stack
+* Set conditional breakpoints
+* Set XHR breakpoints
+
+![](images/image-13.PNG)
+
+
+- You can blackbox the script so angular.js wont appear 30 times in your callstack
+- Watch expression is useful to keep a track of variables. but hover over also gives values...
+- Watch and scope...
+- XHR Breakpoints are useful
+
+- Sources/overrides will help you retain your changes of CSS/JS you make locally
+
